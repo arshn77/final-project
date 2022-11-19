@@ -72,3 +72,9 @@ footer p {
 .skip a:focus{
     top: 30px
 }
+
+h1{
+    font-size:xx-large;
+    text-align: center;
+    margin: 10px;
+}
